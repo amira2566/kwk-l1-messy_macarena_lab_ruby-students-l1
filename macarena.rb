@@ -1,7 +1,5 @@
-def macarena_intro
-  puts "How to do the macarena"
-end 
-macarena_intro 
+puts "How to do the macarena"
+puts ""
 
 
 
