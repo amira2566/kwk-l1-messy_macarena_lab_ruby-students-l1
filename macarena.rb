@@ -1,4 +1,4 @@
-puts "How to do the macarena"
+puts "How To Do The macarena"
 puts ""
 
 
